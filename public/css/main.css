@@ -1,0 +1,31 @@
+body {
+	font-family: 'Lato';
+}
+
+.fa-btn {
+	margin-right: 6px;
+}
+
+.bewerkCol {
+	width: 100px;
+}
+
+.nameCol {
+	width: 400px;
+}
+
+a {
+	cursor: pointer;
+}
+
+input .inputField {
+	border: 1px solid #9e9e9e;
+	border-bottom-left-radius: 15%;
+	border-bottom-right-radius: 15%;
+}
+
+a.a-float-right {
+	width: 20px;
+	display: block;
+	float: right;
+}
